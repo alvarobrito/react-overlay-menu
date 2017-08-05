@@ -1,0 +1,23 @@
+{
+  "name": "react-overlay-menu",
+  "version": "1.0.0",
+  "description": "An overlay side navigation React component using CSS transitions.",
+  "main": "dist/react-overlay-menu.js",
+  "repository": "git@github.com:alvarobrito/react-overlay-menu.git",
+  "author": "Alvaro Brito <alvarobr85@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  },
+  "scripts": {
+    "build": "babel src/OverlayMenu.jsx --out-file dist/react-overlay-menu.js"
+  }
+}
