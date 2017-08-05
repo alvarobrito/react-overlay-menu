@@ -7,7 +7,7 @@ An overlay side menu React component using CSS transitions.
 yarn install or npm install
 ```
 
-# usage ()
+# usage
 
 ``` javascript
 import React, { Component } from 'react';
