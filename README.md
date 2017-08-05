@@ -34,7 +34,6 @@ class Example extends Component {
           onClose={this.toggleMenu}
         >
           <MyMenu />
-          <button type="button" onClick={this.toggleMenu}>Close menu</button>
         </OverlayMenu>
       </div>
     );
