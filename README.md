@@ -1,12 +1,12 @@
 # react-overlay-menu
 An overlay side menu React component using CSS transitions.
 
-![Demo React Overlay Menu](https://raw.githubusercontent.com/alvarobrito/react-overlay-menu/master/react-overlay-menu_demo.gif, "React overlay menu, demo")
+![Demo React Overlay Menu](https://raw.githubusercontent.com/alvarobrito/react-overlay-menu/master/react-overlay-menu_demo.gif)
 
 # install
 
-``` bash
-yarn install or npm install
+``` bash 
+yarn add react-overlay-menu -S | npm install react-overlay-menu -S
 ```
 
 # usage
@@ -52,4 +52,4 @@ export default Example;
 | :--- | :--- | :--- | :--- |
 | `open` | `bool` | false | Is the menu opened or not. |
 | `right` | `bool` | false | Fix the overlay menu to the right. |
-| `onClose` | `func` | undefined | Callback function to close it. |
+| `onClose` | `func` | undefined | Callback function to close, when click on the overlay. |
