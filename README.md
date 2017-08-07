@@ -1,7 +1,7 @@
 # react-overlay-menu
 An overlay side menu React component using CSS transitions.
 
-![Demo React Overlay Menu](./react-overlay-menu_demo.gif, "React overlay menu, demo")
+![Demo React Overlay Menu](https://raw.githubusercontent.com/alvarobrito/react-overlay-menu/master/react-overlay-menu_demo.gif, "React overlay menu, demo")
 
 # install
 
